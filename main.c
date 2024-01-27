@@ -4,6 +4,7 @@
 int main()
 {
 	 int a,b,c,d;
+	 int 111904;
 	 for (a=1;a<=100;a++)
 	 {
 	  if(a%2==1)	       
